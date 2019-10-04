@@ -3,7 +3,7 @@ repository: https://github.com/C4TBrilliantThoughts/resume
 # favicon: images/favicon.ico
 
 # Personal info
-name: Sumanth Sanathi
+name: Sumanth S
 title: Senior Automation Engineer | Full Stack Developer(Web, UX/UI)
 description: sumanth's CV
 favicon: /images/profile.jpg
@@ -47,13 +47,6 @@ more_content: | # this will include new lines to allow paragraphs
    - Gaming
    - Knitting
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-languages:
-    - language1:
-      name: Hindi
-      proficiency: Native
-    - language2:
-      name: English
-      proficiency: Professional
 # Footer
 footer_show_references: true
 
