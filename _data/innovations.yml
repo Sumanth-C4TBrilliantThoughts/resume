@@ -1,7 +1,10 @@
 - layout: left
   name: C4T Brilliant Thoughts
   qualification: Founded innovate smart tech blog.
-  quote: >
-    Created this smart <mark>Technical</mark> and <mark>Technology</mark> blog to update latest T&T industry trends. 
+  # quote: >
   description: | # this will include new lines to allow paragraphs
-
+    Created this smart <mark>Technical</mark> and <mark>Technology</mark> blog to update latest T&T industry trends. 
+  name: Projects
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    01-Smart-Data-Share | Created this smart <mark>Technical</mark> and <mark>Technology</mark> blog to update latest T&T industry trends. 
