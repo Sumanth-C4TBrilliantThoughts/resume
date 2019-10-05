@@ -4,6 +4,8 @@
   # quote: >
   description: | # this will include new lines to allow paragraphs
     Created this smart <mark>Technical</mark> and <mark>Technology</mark> blog to update latest T&T industry trends. 
+  
+- layout: left
   name: Projects
   # quote: >
   description: | # this will include new lines to allow paragraphs
