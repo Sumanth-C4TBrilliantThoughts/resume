@@ -16,6 +16,10 @@
                 {%- include projects.html -%}
             {%- endif -%}
 
+            {%- if site.data.innovations.size > 0 -%}
+                {%- include innovations.html -%}
+            {%- endif -%}
+
             {%- if site.data.experience.size > 0 -%}
                 {%- include experience.html -%}
             {%- endif -%}
