@@ -7,6 +7,8 @@
   
 - layout: left
   name: Projects
+  link: github.com/c4tbrilliantthoughts
+  github: sproogen/resume-theme
   # quote: >
   description: | # this will include new lines to allow paragraphs
     <mark>01-Smart-Data-Share</mark>
