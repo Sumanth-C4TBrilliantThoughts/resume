@@ -7,7 +7,7 @@
   
 - layout: left
   name: Projects
-  github: github.com/c4tbrilliantthoughts
+  github: https://www.github.com/c4tbrilliantthoughts
   quote: > All projects available in github private repository.
   description: | # this will include new lines to allow paragraphs
     <mark>01-Smart-Data-Share</mark>
