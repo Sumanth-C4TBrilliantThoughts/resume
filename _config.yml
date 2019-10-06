@@ -11,15 +11,16 @@ email: c4t.brilliantthoughts@gmail.com
 website: www.c4tbt.com
 
 # Social links
-twitter_username: sumanth
+twitter_username: sumanthc4t
 github_username:  c4tbrilliantthoughts
 dribbble_username: c4tbt
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
+# facebook_username: 
+# flickr_username: 
+instagram_username: sumanth_c4t
+linkedin_username: c4tbt
+c4t_brilliantthoughts: 
+# pinterest_username: 
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -46,7 +47,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Rock climbing
    - Gaming
    - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  
 # Footer
 footer_show_references: false
 
