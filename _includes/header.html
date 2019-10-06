@@ -13,20 +13,6 @@
             </a>
           </li>
         {%- endif -%}
-        {%- if site.facebook_username -%}
-          <li>
-            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-facebook" title="Facebook link"></i>
-            </a>
-          </li>
-        {%- endif -%}
-        {%- if site.flickr_username -%}
-          <li>
-            <a target="_blank" href="https://www.flickr.com/photos/{{ site.flickr_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-flickr" title="Flickr link"></i>
-            </a>
-          </li>
-        {%- endif -%}
         {%- if site.github_username -%}
           <li>
             <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
@@ -71,32 +57,17 @@
         {%- endif -%}
         {%- if site.youtube_username -%}
           <li>
-            <a target="_blank" href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+            <a target="_blank" href="https://github.com/C4TBrilliantThoughts/resume/raw/master/sumanth.pdf" class="button button--sacnite button--round-l">
               <i class="fa fa-youtube-play" title="Youtube link"></i>
             </a>
           </li>
         {%- endif -%}
-        {%- if site.googleplus_username -%}
-          <li>
-            <a target="_blank" href="https://plus.google.com/{{ site.googleplus_username| escape }}" class="button button--sacnite button--round-l">
-              <i class="fa fa-google-plus" title="Google plus link"></i>
-            </a>
-          </li>
-        {%- endif -%}
-        {%- if site.googleplus_username -%}
-        <li>
-          <a target="_blank" href="https://github.com/C4TBrilliantThoughts/resume/raw/master/sumanth.pdf" class="button button--sacnite button--round-l">
-            <i class="fa fa-google-plus" title="Resume"></i>
-          </a>
-        </li>
-      {%- endif -%}
       </ul>
 
       {%- if site.email -%}
         <p>
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
-        <a href="https://github.com/C4TBrilliantThoughts/resume/raw/master/sumanth.pdf">Data1</a>
       {%- endif -%}
       {%- if site.phone -%}
         <p>
