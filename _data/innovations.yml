@@ -1,19 +1,17 @@
 - layout: left
   name: C4T Brilliant Thoughts
   qualification: Founded innovate smart tech blog.
-  # quote: >
+  quote: > 
   description: | # this will include new lines to allow paragraphs
     Created this smart <mark>Technical</mark> and <mark>Technology</mark> blog to update latest T&T industry trends. 
   
 - layout: left
   name: Projects
-  link: github.com/c4tbrilliantthoughts
-  github:
+  github: github.com/c4tbrilliantthoughts
   quote: > All projects available in github private repository.
   description: | # this will include new lines to allow paragraphs
     <mark>01-Smart-Data-Share</mark>
-    hasvghdj asd asda sdvgikags vda vsdias da sidgao sgdoags dasogdoasd oasudoasud asd 
-    hasvghdj asd asda sdvgikags vda vsdias da sidgao sgdoags dasogdoasd oasudoasud asd
+    hasvghdj asd asda sdvgikags vda vsdias da sidgao sgdoags dasogdoasd oasudoasud asd SADASDASDASDASDASDASDSDASD ASDASDAxccxz
 
     <mark>01-Smart-Data-Share</mark>
     hasvghdj asd asda sdvgikags vda vsdias da sidgao sgdoags dasogdoasd oasudoasud asd
