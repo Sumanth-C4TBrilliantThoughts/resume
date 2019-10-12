@@ -27,10 +27,8 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sumanth and I'm a Product Engineer (current role). I worked as a automation test engineer. I also have experience design automation frameworks using Selenium, Python and Java for defferent types of app types Web, Mobile(appium) and Desktop(Winium,AutoIT and sikuli). I have experience with my current role gaining good teamwork and leadership skills.
-  
-  I am most skilled in: Design and development of hardware and software products.
-  
-  Aim: Merge Software and Hardware(own project)
+I am most skilled in: Design and development of hardware and software products.
+Aim: Merge Software and Hardware(own project)
 
 # Projects Section
 # projects_title: Projects
