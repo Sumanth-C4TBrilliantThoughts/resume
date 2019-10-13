@@ -11,4 +11,11 @@
   description: | # this will include new lines to allow paragraphs
     <mark>01-Smart-Data-Share</mark> Implemented smart way to share data and download the files to other devices like... Mobile, TV, Tab, etc... Basically it’ll share data which is connected same network(Wi-Fi) with across the devices.  
 
-    Plugin | Atom.io |smart-data-share
+    <mark>02-SmartTechDocs</mark> Designed and implemented innovative smart technical documentation website for “Products” to maintain in detail documentation.
+    
+    Why it is innovative?
+    Designed this website through “Markdown” syntax language. 
+    __
+    
+    Why specific  “Markdown” syntax language?  
+    Quick learn and Easy to understand the syntax’s to create documentation and customizable.   
