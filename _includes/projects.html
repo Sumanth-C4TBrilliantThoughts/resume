@@ -1,17 +1,16 @@
 <div class="container projects-container">
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
-  {% for project in site.data.projects %}
+    {% for project in site.data.projects %}
     {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
   {% endfor %}
+      <ul class="icons no-print">
+          {%- if site.github_username -%}
+          <li>
+            <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-github" title="Github link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+      </ul>
 </div>
-<div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
-    <ul class="icons no-print">
-        {%- if site.github_username -%}
-        <li>
-          <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-            <i class="fa fa-github" title="Github link"></i>
-          </a>
-        </li>
-      {%- endif -%}
-    </ul>
-</div>
+
