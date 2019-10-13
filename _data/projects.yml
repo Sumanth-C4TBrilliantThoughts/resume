@@ -7,7 +7,8 @@
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
    SLK. Passionately worked on Nineteen68 ,this is a test-automation tool and its main purpose is to automate the web, mainframes, webservices, and other desktop related applications. Built infrastructure for object identification and keyword level plugins for SAP, OEBS, Desktop and Mobile[android, iOS] Applications.
-   Nineteen68 | Software Testing Paradigm -Traditional testing platforms are limited by isolated regression subsets, offer partial automation, and rely on disjointed testing methodology. SLK’s proprietary autonomous assurance platform Nineteen68 resolves these issues by enabling near 100% test automation and total coverage of heterogeneous technology and functionality. Nineteen68 eliminates the hidden complexities of excel sheets and helps users to easily understand Test Scenarios through functional decomposition. It intuitively builds scenarios and reuses existing components from other scenarios to accelerate test cycle execution time.
+   
+   <mark>Nineteen68</mark> | Software Testing Paradigm -Traditional testing platforms are limited by isolated regression subsets, offer partial automation, and rely on disjointed testing methodology. SLK’s proprietary autonomous assurance platform Nineteen68 resolves these issues by enabling near 100% test automation and total coverage of heterogeneous technology and functionality. Nineteen68 eliminates the hidden complexities of excel sheets and helps users to easily understand Test Scenarios through functional decomposition. It intuitively builds scenarios and reuses existing components from other scenarios to accelerate test cycle execution time.
   website: www.c4tbt.com
 - layout: top-middle
   name: RPA (Robotic Process Automation Tool)
