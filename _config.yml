@@ -4,11 +4,13 @@ repository: https://github.com/C4TBrilliantThoughts/resume
 
 # Personal info
 name: Sumanth Sanathi
-title: Senior Product Automation Engineer | Full Stack Developer(Web, UX/UI)
-about_title: SLK software solutions under the Dimenstion Lab team
+title: |
+  Senior Product Automation Engineer | Full Stack Developer(Web, UX/UI)
+  SLK software solutions under the Dimenstion Lab team
 description: sumanth's CV
 favicon: /images/profile.jpg
 email: c4t.brilliantthoughts@gmail.com
+phone: (+91)8660422303
 website: www.c4tbt.com
 
 # Social links
