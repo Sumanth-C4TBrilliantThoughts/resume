@@ -6,11 +6,13 @@
      <mark>About</mark>:: Automatic code review tool to detect bugs, vulnerabilities and code smells in code. It can integrate with your existing workflow to enable continuous code inspection across your project branches and pull requests and once it detect vulnerabilities, it’ll generated in details reports(HTML, PDF) along with high, medium, low vulnerabilities graphs with respective projects. This security tool supported “Git-Hooks”.
   description: | # this will include new lines to allow paragraphs
     Passionately worked on Code check vulnerabilities Security Tool, I worked on this project designed and implemented on User Interface using MEAN Stack. Worked on setting up of CI/CD of various Products at SLK using batch and shell script.
+    
     On this project setting up of AzureDevOps CI/CD agent-pools on Linux and Windows environment. 
+    
     Handle complete this project code and repositories in AzureDevOps with Agile process.
 - layout: top-middle
   name: RPA (Robotic Process Automation Tool)
-  link: github.com/sproogen
+  # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
     <mark>About</mark>:: RAID (Robotic Automation & Intelligence Discovery), SLK’s Robotic Process Automation platform, is built using blue ocean strategy and design thinking principles to automate any number of processes, regardless of complexity.

@@ -9,4 +9,6 @@
   name: Projects
   github: c4tbrilliantthoughts
   description: | # this will include new lines to allow paragraphs
-    <mark>01-Smart-Data-Share</mark>
+    <mark>01-Smart-Data-Share</mark> Implemented smart way to share data and download the files to other devices like... Mobile, TV, Tab, etc... Basically it’ll share data which is connected same network(Wi-Fi) with across the devices.  
+
+    Plugin | Atom.io |smart-data-share
