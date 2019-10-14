@@ -1,7 +1,7 @@
+<span>GitHub Projects repositories are Private Mode </span>
 <div class="container education-container">
   <h3>{{ site.education_title | default: "Innovations" }}</h3>
   {% for education in site.data.innovations %}
     {% include {{ innovations.layout | default: 'left' | append: ".html" }} item=education %}
   {% endfor %}
-  <span>GitHub Projects repositories are Private Mode </span>
 </div>
