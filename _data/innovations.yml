@@ -9,20 +9,20 @@
   name: Projects
   github: c4tbrilliantthoughts
   description: | # this will include new lines to allow paragraphs
-    <mark>01-Smart-Data-Share</mark> Implemented smart way to share data and download the files to other devices like... Mobile, TV, Tab, etc... Basically it’ll share data which is connected same network(Wi-Fi) with across the devices.  
+    ``01-Smart-Data-Share:`` Implemented smart way to share data and download the files to other devices like... Mobile, TV, Tab, etc... Basically it’ll share data which is connected same network(Wi-Fi) with across the devices.  
 
-    <mark>02-SmartTechDocs</mark> Designed and implemented innovative smart technical documentation website for “Products” to maintain in detail documentation.
+    ``02-SmartTechDocs:`` Designed and implemented innovative smart technical documentation website for “Products” to maintain in detail documentation.
     
-    Why it is innovative?
+    * Why it is innovative?
 
-    Designed this website through “Markdown” syntax language. 
+        Designed this website through “Markdown” syntax language. 
  
-    Why specific  “Markdown” syntax language?  
+    * Why specific  “Markdown” syntax language?  
 
-    Quick learn and Easy to understand the syntax’s to create documentation and customizable.   
+        Quick learn and Easy to understand the syntax’s to create documentation and customizable.   
 
-    <mark>03-Internet of things</mark>Working on a project called "SMART OBD LINK" connected to the car through an Android mobile app. Voice commands shortcuts(iphone-ios13) to control car. 
+    ``03-Internet of things:`` Working on a project called "SMART OBD LINK" connected to the car through an Android mobile app. Voice commands shortcuts(iphone-ios13) to control car. 
 
-    <mark>04-Automate Mobile Apps</mark> Working on a project AIAP. To automate mobile apps and added in smart intelligence on AI and ML.
+    ``04-Automate Mobile Apps:`` Working on a project AIAP. To automate mobile apps and added in smart intelligence on AI and ML.
 
     .......  
