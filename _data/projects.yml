@@ -6,14 +6,20 @@
      <mark>About</mark>:: Automatic code review tool to detect bugs, vulnerabilities and code smells in code. It can integrate with your existing workflow to enable continuous code inspection across your project branches and pull requests and once it detect vulnerabilities, it’ll generated in details reports(HTML, PDF) along with high, medium, low vulnerabilities graphs with respective projects. This security tool supported “Git-Hooks”.
   description: | # this will include new lines to allow paragraphs
     Passionately worked on Code check vulnerabilities Security Tool, I worked on this project designed and implemented on User Interface using MEAN Stack. Worked on setting up of CI/CD of various Products at SLK using batch and shell script.
+    
+    * Role: Full stack developer 
+
 - layout: top-middle
-  name: RPA (Robotic Process Automation Tool)
+  name: RPA (Robotic Process Automation Tool - RAID)
   # link: github.com/sproogen
   # github: sproogen/resume-theme
   quote: >
     <mark>About</mark>:: RAID (Robotic Automation & Intelligence Discovery), SLK’s Robotic Process Automation platform, is built using blue ocean strategy and design thinking principles to automate any number of processes, regardless of complexity.
   description: | # this will include new lines to allow paragraphs
     Passionately worked on Robotic Process Automation Tool RAID, this is a workflow  based automation tool. I Designed and implemented web application to design workflow for a process to be automated. Automated different applications (Websites, Outlook, Desktop and SAP). Handled RAID Deployment and hosted on “Linux” and “Windows” environment.
+    
+    * Role: Automation Engineer. 
+
 - layout: top-middle
   name:  Nineteen68 - Test Automation Tool
   # link: github.com/sproogen
@@ -23,6 +29,7 @@
   description: | # this will include new lines to allow paragraphs
     Passionately worked on Nineteen68 ,this is a test-automation tool and its main purpose is to automate the web, mainframes, webservices, and other desktop related applications. Built infrastructure for object identification and keyword level plugins for SAP, OEBS, Desktop and Mobile[android, iOS] Applications.
   
+    * Role: Automation Engineer. 
 
     
   

@@ -10,13 +10,14 @@
   
     ``Kills :``
 
-      * UI Frameworks  Angular-7, ReactJS, VueJS, HTML5, CSS and SASS, AnimeJS.
-      * Design Mongodb Scheme
-      * JavaScript and NodeJS
-      * Nginx implementation
-      * Agile development. Microsoft Azure DevOps
-      * CI/CD – Batch and shell script
-      * UX/UI – AdoxeXD (Designed complete layout, icons, logo and color schema)
+      * Angular7, ReactJS, VueJS(UI Frameworks), HTML5, CSS, SASS and AnimeJS.
+      * Design Mongodb Scheme.
+      * JavaScript and NodeJS.
+      * Nginx implementation.
+      * Agile development. Microsoft Azure DevOps.
+      * CI/CD – Batch and shell script.
+      * UX/UI – AdoxeXD (Designed complete layout, icons, logo and color schema).
+      * Supported Node app-server on “Linux” environment.
 
     ``Responsibilities:``  Migration, DB Updates, Backup and CI/CD integration, maintains and releasing builds to the testing team and create a hotfix branch, which is created off of the production branch rather than master.
 
@@ -26,6 +27,6 @@
   job_title: Senior Product Automation Engineer.
   dates: November 2016- January 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Working as a Product Automation Engineer to create hybrid Test Automation Frameworks to automate internal tools.
   description: | # this will include new lines to allow paragraphs
     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
