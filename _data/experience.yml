@@ -12,19 +12,19 @@
 
       * UI Frameworks  Angular-7, ReactJS, VueJS, HTML5, CSS and SASS, AnimeJS.
 
-      * Design Mongodb Scheme
+      Design Mongodb Scheme
 
-      * JavaScript and NodeJS
+      JavaScript and NodeJS
 
-      * Nginx implementation
+    * Nginx implementation
 
-      * Agile development. Microsoft Azure DevOps
+      Agile development. Microsoft Azure DevOps
 
-      * CI/CD – Batch and shell script
+      CI/CD – Batch and shell script
 
-      * UX/UI – AdoxeXD (Designed complete layout, icons, logo and color schema)
+      UX/UI – AdoxeXD (Designed complete layout, icons, logo and color schema)
 
-    ``Responsibilities:``  Migration, DB Updates, Backup and CI/CD integration, maintains and releasing builds to the testing team and hot fixes for production.
+    ``Responsibilities:``  Migration, DB Updates, Backup and CI/CD integration, maintains and releasing builds to the testing team and create a hotfix branch, which is created off of the production branch rather than master.
 
 - layout: left
   company: SLK Software Services Pvt Ltd.
