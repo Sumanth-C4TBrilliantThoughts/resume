@@ -16,7 +16,7 @@ if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" == "false" ]; th
     CURRENT_VERSION=$(gem bump --pretend --no-commit | awk '{ print $3 }');
     gem bump --skip-ci;
     NEW_VERSION=$(gem bump --pretend --no-commit | awk '{ print $3 }');
-    sed -i -e "s/modern-resume-theme (${CURRENT_VERSION})/modern-resume-theme (${NEW_VERSION})/g" ./Gemfile.lock;
+    sed -i -e "s/smart-resume-card (${CURRENT_VERSION})/smart-resume-card (${NEW_VERSION})/g" ./Gemfile.lock;
     git add Gemfile.lock;
     git commit --amend --no-edit;
   fi

@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/modern-resume-theme
+repository: sproogen/smart-resume-card
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -7,7 +7,7 @@ name: Your Name
 title: Your job title
 email: test@email.com
 phone: 07845248563
-website: sproogen.github.io/modern-resume-theme
+website: sproogen.github.io/smart-resume-card
 
 # Social links
 twitter_username: jekyllrb
@@ -49,8 +49,8 @@ about_content: > # this means to ignore newlines until the next config item.
 footer_show_references: true
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+# theme: smart-resume-card (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/smart-resume-card (Use this if you are hosting your resume on GitHub)
 
 data_dir: _test/_data
 

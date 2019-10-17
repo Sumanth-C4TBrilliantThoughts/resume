@@ -6,7 +6,7 @@
 
 ![img](images/smart_resumecard.png)
 
-*Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/C4TBrilliantThoughts/resume/issues/new/choose) or feel free to send me an email to [sprog31@gmail.com](mailto:c4t.brilliantthoughts@gmail.com), I'm always happy to help.*
+*Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/C4TBrilliantThoughts/resume/issues/new/choose) or feel free to send me an email to [c4t.brilliantthoughts@gmail.com](mailto:c4t.brilliantthoughts@gmail.com), I'm always happy to help.*
 
 *I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [support my innovations)].*
 
@@ -41,7 +41,7 @@ So now you will be able to see the demo template at your github url. You can can
 
 ##### _config.yml
 This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It will also allow you to change the titles of some of the content sections.
-A full example of the _config.yml can be found [here](https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml)
+A full example of the _config.yml can be found [here](https://github.com/sproogen/smart-resume-card/blob/master/_config.yml)
 
 ##### _data/education.yml
 A list of all your education, each education will follow this format
@@ -91,8 +91,8 @@ A list of all your projects, each project will follow this format
 ```
 - layout: left (options: left, right, top, top-right, top-middle)
   name: Project name
-  link: Link to project (eg. https://sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: Link to project (eg. https://sproogen.github.io/smart-resume-card)(optional)
+  github: Github page for project (eg. sproogen/smart-resume-card)(optional)
   quote: >
     Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
