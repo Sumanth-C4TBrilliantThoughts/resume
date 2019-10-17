@@ -4,7 +4,7 @@
 
 [View Demo](https://www.sumanthsanathi.ga)
 
-![img](screenshot.png)
+![img](images/smart_resumecard.png)
 
 *Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/C4TBrilliantThoughts/resume/issues/new/choose) or feel free to send me an email to [sprog31@gmail.com](mailto:c4t.brilliantthoughts@gmail.com), I'm always happy to help.*
 
