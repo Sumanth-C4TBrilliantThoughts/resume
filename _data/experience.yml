@@ -10,14 +10,22 @@
   
     ``Kills :``
 
-      * Angular7, ReactJS, VueJS(UI Frameworks), HTML5, CSS, SASS and AnimeJS.
-      * Design Mongodb Scheme.
-      * JavaScript and NodeJS.
-      * Nginx implementation.
-      * Agile development. Microsoft Azure DevOps.
-      * CI/CD – Batch and shell script.
-      * UX/UI – AdoxeXD (Designed complete layout, icons, logo and color schema).
-      * Supported Node app-server on “Linux” environment.
+      * Designed, architected and wrote the web frameworks of our internal product tools, using MEAN and MERN stacks with reusable components.
+      * Expertise in UI Development using HTML5, CSS, SASS, JavaScript, Angular7-material design, ReactJs, Animations (animejs) and Node.JS.
+      * Knowledge on creating MongoDB Schema structure.
+      * Optimized API services layers and MongoDB data model to handle request load response.
+      * Expertise in NGINX setup and configurations are different types of Environment Linux and Windows.
+      * Implemented NGINX for our products to improve performance, fastest way to serving static files, Reverse proxy with caching and security headers etc...
+      * Good Knowledge on VueJS and Sveltejs.
+      * Highly expert in AzureDevOps with CI/CD process and setting up Agent pools for Linux and Windows.
+      * Expert in designed UI/UX prototypes for internal product tools, using AdobeXD and Photoshop Cs6.
+      * Experience in version control systems like GitLab, GitHub and AzureDevOps.
+      * Created Semantic Versioning Template for internal product tools.
+      * Take ownership of maintain AzureDevOps code repositories backup, migration, merge requests and Releasing builds for testing and production through CI/CD pipelines.
+      * Schedule and Automated CI/CD build mails and build notifications with team members.
+      * Experience in creating CI/CD .yml files, using bash and shell scripting language.
+      * Good Knowledge on to design executable (.exe) files.
+
 
     ``Responsibilities:``  Migration, DB Updates, Backup and CI/CD integration, maintains and releasing builds to the testing team and create a hotfix branch, which is created off of the production branch rather than master.
 
