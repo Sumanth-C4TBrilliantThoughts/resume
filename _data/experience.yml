@@ -39,7 +39,7 @@
   description: | # this will include new lines to allow paragraphs  
     I worked as a automation engineer to designed and implemented “Test Automation frame works” on for internal product testing tools. Automated the testing for the multiple application such as Web, Desktop, Web Services, Android and iOS Apps. It has six modules which are further divided into multiple sub modules and is accessible on role basis depending on the designated role. This tool provides features like, scrape any application, build test cases, and debug those test cases for efficiency and then build test suites which intern contain multiple test cases and finally execute test suites which will generate overall detailed reports.
     
-    ** HONORS AND AWARDS **.
-    * Got quarterly awarded for excellence in performance “BUDDING ROCK START” awards.
-    * Rewarded with bonus for best performance.
+     ``AWARDS``
+      * Got quarterly awarded for excellence in performance “BUDDING ROCK START” awards.
+      * Rewarded with bonus for best performance.
 
