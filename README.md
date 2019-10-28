@@ -51,7 +51,7 @@ A list of all your education, each education will follow this format
 - layout: left (options: left, right, top, top-right, top-middle)
   name: Institution name
   dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  qualification: Qualifications (eg. BTech CSE)
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
