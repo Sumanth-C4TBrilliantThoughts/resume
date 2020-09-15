@@ -1,52 +1,61 @@
+_A modern simple static resume template and theme. Powered by C4T Brilliant Thoughts and GitHub pages._
+\*Host your own smart resume on GitHub for **free!\***
 
-*A modern simple static resume template and theme. Powered by C4T Brilliant Thoughts and GitHub pages.*
-*Host your own smart resume on GitHub for **free!***
-
-[View Demo](https://www.sumanthsanathi.ga)
+[View Demo](https://c4tbrilliantthoughts.github.io/resume/)
 
 ![img](images/smart_resumecard.png)
 
-*Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/C4TBrilliantThoughts/resume/issues/new/choose) or feel free to send me an email to [c4t.brilliantthoughts@gmail.com](mailto:c4t.brilliantthoughts@gmail.com), I'm always happy to help.*
+_Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/C4TBrilliantThoughts/resume/issues/new/choose) or feel free to send me an email to [c4t.brilliantthoughts@gmail.com](mailto:c4t.brilliantthoughts@gmail.com), I'm always happy to help._
 
-*I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [support my innovations)].*
+_I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [support my innovations)]._
 
-```Website :``` https://www.c4tbt.com
-
+`Website :` https://www.c4tbrilliantthoughts.com
 
 ## Installation & setup guide
+
 This template is designed to be hosted using GitHub pages and so that's what these instructions will cover. If you plan on hosting it seperately then there might be some extra steps that we wont cover.
 
 Before starting it might be useful to familiarise yourself with [Jekyll](https://jekyllrb.com/docs/home/), [Markdown](https://www.markdownguide.org/getting-started) and [GitHub pages](https://pages.github.com/).
 
 ##### Step 1 - GitHub
+
 Start by creating an account on [GitHub](https://github.com/join)
 
 ##### Step 2 - Create Repository
+
 Create a repository on GitHub to hold your files and host your resume. You can find out how to do that [here](https://pages.github.com/)
 
 ##### Step 3 - Download Resume Template
+
 Download and extract the following zip into the git repository you have just created. [resume-template.zip](https://github.com/C4TBrilliantThoughts/resume/archive/master.zip)
 
 ##### Step 4 - Push it
+
 Commit and push the resume template to github
+
 ```
 $ git add --all
 $ git commit -m "Initial resume setup"
 $ git push -u origin master
 ```
+
 ##### Set 5 - See it
+
 You should now be able to see the demo resume template using this theme at `[your-username].github.io`
 
 ## Usage
 
 So now you will be able to see the demo template at your github url. You can can edit the yml files and replace the demo content with your own. Hopefully it will be fairly simple to work out where all the content goes, but here is a quick overview.
 
-##### _config.yml
-This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It will also allow you to change the titles of some of the content sections.
-A full example of the _config.yml can be found [here](https://github.com/C4TBrilliantThoughts/resume/blob/master/_config.yml)
+##### \_config.yml
 
-##### _data/education.yml
+This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It will also allow you to change the titles of some of the content sections.
+A full example of the \_config.yml can be found [here](https://github.com/C4TBrilliantThoughts/resume/blob/master/_config.yml)
+
+##### \_data/education.yml
+
 A list of all your education, each education will follow this format
+
 ```
 - layout: left (options: left, right, top, top-right, top-middle)
   name: Institution name
@@ -58,8 +67,10 @@ A list of all your education, each education will follow this format
     Description of qualification
 ```
 
-##### _data/experience.yml
+##### \_data/experience.yml
+
 A list of all your experience, each experience will follow this format
+
 ```
 - layout: left (options: left, right, top, top-right, top-middle)
   company: Company name
@@ -73,6 +84,7 @@ A list of all your experience, each experience will follow this format
 ```
 
 If you wish to specify multiple job titles for a single company, use this format
+
 ```
 - layout: left (options: left, right, top, top-right, top-middle)
   company: Company name
@@ -88,8 +100,10 @@ If you wish to specify multiple job titles for a single company, use this format
     Description of role
 ```
 
-##### _data/projects.yml
+##### \_data/projects.yml
+
 A list of all your projects, each project will follow this format
+
 ```
 - layout: left (options: left, right, top, top-right, top-middle)
   name: Project name
@@ -103,9 +117,9 @@ A list of all your projects, each project will follow this format
 
 ## Running locally
 
-Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
+Before you start make sure you have _Ruby_ and the gems for _Jekyll_ installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
 
-1. Clone your resume repository locally *(if you haven't already)*
+1. Clone your resume repository locally _(if you haven't already)_
 2. `cd [your-repository-name]`
 3. `bundle install`
 4. `bundle exec jekyll serve`
@@ -113,15 +127,12 @@ Before you start make sure you have *Ruby* and the gems for *Jekyll* installed l
 
 Any changes you make will automatically build and you will be able to see these by refreshing your browser.
 
-*Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
-
+_Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`._
 
 ## Author
 
 Sumanth.Sanathi | C4T Brilliant Thoughts
 
-
 ## License
 
 The smart resume theme is available as open source.
-
