@@ -1,13 +1,13 @@
 - layout: left
   company: SLK Software Services Pvt Ltd.
-  link: http://www.slkws.slksoftware.com/
+  link: https://www.slksoftware.com/
   job_title: Product - Full Stack Developer.
   dates: January 2019- Present
   quote: >
-   Working as a Full Stack developer to handle Frontend and Backend development
+    Working as a Full Stack developer to handle Frontend and Backend development
   description: | # this will include new lines to allow paragraphs
     I worked as a web development on my current project.I have used Mongodb, ExpressJS, Angular(7), NodeJS basically full packed MEAN stack. 
-  
+
     ``Kills :``
 
       * Designed, architected and wrote the web frameworks of our internal product tools, using MEAN and MERN stacks with reusable components.
@@ -35,11 +35,10 @@
   job_title: Senior Product Automation Engineer.
   dates: November 2016- January 2019
   quote: >
-   Working as a Product Automation Engineer to create hybrid Test Automation Frameworks to automate internal tools.
-  description: | # this will include new lines to allow paragraphs  
+    Working as a Product Automation Engineer to create hybrid Test Automation Frameworks to automate internal tools.
+  description: | # this will include new lines to allow paragraphs
     I worked as a automation engineer to designed and implemented “Test Automation frame works” on for internal product testing tools. Automated the testing for the multiple application such as Web, Desktop, Web Services, Android and iOS Apps. It has six modules which are further divided into multiple sub modules and is accessible on role basis depending on the designated role. This tool provides features like, scrape any application, build test cases, and debug those test cases for efficiency and then build test suites which intern contain multiple test cases and finally execute test suites which will generate overall detailed reports.
-    
+
      ``AWARDS``
       * Got quarterly awarded for excellence in performance “BUDDING ROCK START” awards.
       * Rewarded with bonus for best performance.
-

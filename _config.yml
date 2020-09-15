@@ -5,25 +5,25 @@ repository: https://github.com/C4TBrilliantThoughts/resume
 # Personal info
 name: Sumanth S
 title: |
- Product Engineer | Full Stack Developer(Web, UX/UI)
+  Product Engineer | Full Stack Developer (Web, UX/UI)
 company: |
- SLK Software Services PVT LTD under the Dimension Labs Product Team.
+  SLK Software Services PVT LTD under the Dimension Labs Product Team.
 description: sumanth's CV
 favicon: /images/profile.jpg
 email: c4t.brilliantthoughts@gmail.com
 phone: (+91)8660422303
-website: www.c4tbt.com
+website: www.c4tbrilliantthoughts.com
 
 # Social links
 twitter_username: sumanthc4t
-github_username:  c4tbrilliantthoughts
+github_username: c4tbrilliantthoughts
 dribbble_username: c4tbt
-# facebook_username: 
-# flickr_username: 
+# facebook_username:
+# flickr_username:
 instagram_username: sumanth_c4t
 linkedin_username: c4tbt
-# pinterest_username: 
-# youtube_username: 
+# pinterest_username:
+# youtube_username:
 # googleplus_username:
 
 # About Section
@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Rock climbing
 #    - Gaming
 #    - Knitting
-  
+
 # Footer
 footer_show_references: false
 
@@ -62,6 +62,6 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
 theme: jekyll-theme-midnight

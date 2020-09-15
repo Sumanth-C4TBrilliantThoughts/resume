@@ -1,18 +1,25 @@
 <div class="container projects-container">
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
-    {% for project in site.data.projects %}
-    {% include {{ project.layout | default: 'left' | append: ".html" }} item=project %}
-  {% endfor %}
-      <ul class="icons no-print">
-          <li>
-            <a target="_blank" href="http://www.slkws.slksoftware.com/products-and-platforms/1968" class="button button--sacnite button--round-l">
-              <i class="fa fa-chain-broken" title="More about Nineteen68"></i>
-            </a>
-          </li>
-          <li>
-              <a target="_blank" href="http://www.slkws.slksoftware.com/products-and-platforms/raid" class="button button--sacnite button--round-l">
-                <i class="fa fa-chain-broken" title="More about RAID"></i>
-              </a>
-          </li>
-      </ul>
+  {% for project in site.data.projects %} {% include {{ project.layout |
+  default: 'left' | append: ".html" }} item=project %} {% endfor %}
+  <ul class="icons no-print">
+    <li>
+      <a
+        target="_blank"
+        href="https://www.slksoftware.com/products-and-platforms/nineteen68"
+        class="button button--sacnite button--round-l"
+      >
+        <i class="fa fa-chain-broken" title="More about Nineteen68"></i>
+      </a>
+    </li>
+    <li>
+      <a
+        target="_blank"
+        href="https://www.slksoftware.com/products-and-platforms/raid"
+        class="button button--sacnite button--round-l"
+      >
+        <i class="fa fa-chain-broken" title="More about RAID"></i>
+      </a>
+    </li>
+  </ul>
 </div>
